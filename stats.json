@@ -1,0 +1,152 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-6e66d40c1a97f89a1709.js",
+      "component---src-pages-index-js-6e66d40c1a97f89a1709.js.map"
+    ],
+    "path---services-microsoft-practice": [
+      "path---services-microsoft-practice-40007d69e01810996305.js",
+      "path---services-microsoft-practice-40007d69e01810996305.js.map"
+    ],
+    "component---src-pages-services-microsoft-practice-js": [
+      "component---src-pages-services-microsoft-practice-js-f915ce3ca852559c0bda.js",
+      "component---src-pages-services-microsoft-practice-js-f915ce3ca852559c0bda.js.map"
+    ],
+    "path---": [
+      "path----131f9aef94525eeb6ecd.js",
+      "path----131f9aef94525eeb6ecd.js.map"
+    ],
+    "path---services-cyber-security": [
+      "path---services-cyber-security-40007d69e01810996305.js",
+      "path---services-cyber-security-40007d69e01810996305.js.map"
+    ],
+    "component---src-pages-services-cloud-computing-js": [
+      "component---src-pages-services-cloud-computing-js-a3a071a3b1720a87b9c3.js",
+      "component---src-pages-services-cloud-computing-js-a3a071a3b1720a87b9c3.js.map"
+    ],
+    "path---app": [
+      "path---app-a0e39f21c11f6a62c5ab.js",
+      "path---app-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-c3bf958ee13373c682dc.js",
+      "component---src-layouts-index-js-c3bf958ee13373c682dc.js.map"
+    ],
+    "path---careers": [
+      "path---careers-40007d69e01810996305.js",
+      "path---careers-40007d69e01810996305.js.map"
+    ],
+    "path---index": [
+      "path---index-bfe4f7af921467c19828.js",
+      "path---index-bfe4f7af921467c19828.js.map"
+    ],
+    "path---services-mobile-development": [
+      "path---services-mobile-development-40007d69e01810996305.js",
+      "path---services-mobile-development-40007d69e01810996305.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-254dca06282152fbfd42.js",
+      "component---src-pages-404-js-254dca06282152fbfd42.js.map"
+    ],
+    "component---src-layouts-admin-js": [
+      "component---src-layouts-admin-js-3c1d2aca333ee4f727ed.js",
+      "component---src-layouts-admin-js-3c1d2aca333ee4f727ed.js.map"
+    ],
+    "commons": [
+      "commons-6acc820c4d19762c4dff.js",
+      "build-js-styles.css",
+      "commons-6acc820c4d19762c4dff.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-services-staff-augmentation-js": [
+      "component---src-pages-services-staff-augmentation-js-6b813bc1e46ace698d73.js",
+      "component---src-pages-services-staff-augmentation-js-6b813bc1e46ace698d73.js.map"
+    ],
+    "path---careers-admin": [
+      "path---careers-admin-a0e39f21c11f6a62c5ab.js",
+      "path---careers-admin-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-services-software-qa-testing-js": [
+      "component---src-pages-services-software-qa-testing-js-dc9f6cdf72e190aad3ea.js",
+      "component---src-pages-services-software-qa-testing-js-dc9f6cdf72e190aad3ea.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-services-data-services-js": [
+      "component---src-pages-services-data-services-js-14f59ef4521bda781d30.js",
+      "component---src-pages-services-data-services-js-14f59ef4521bda781d30.js.map"
+    ],
+    "component---src-pages-services-cyber-security-js": [
+      "component---src-pages-services-cyber-security-js-c0b3c3cda982a59bca62.js",
+      "component---src-pages-services-cyber-security-js-c0b3c3cda982a59bca62.js.map"
+    ],
+    "path---services-bigdata": [
+      "path---services-bigdata-40007d69e01810996305.js",
+      "path---services-bigdata-40007d69e01810996305.js.map"
+    ],
+    "path---services-data-services": [
+      "path---services-data-services-40007d69e01810996305.js",
+      "path---services-data-services-40007d69e01810996305.js.map"
+    ],
+    "component---src-pages-app-js": [
+      "component---src-pages-app-js-6209ace812750973a573.js",
+      "component---src-pages-app-js-6209ace812750973a573.js.map"
+    ],
+    "path---services-cloud-computing": [
+      "path---services-cloud-computing-40007d69e01810996305.js",
+      "path---services-cloud-computing-40007d69e01810996305.js.map"
+    ],
+    "app": [
+      "app-ee4bb87c1cf741ea4de0.js",
+      "build-js-styles.css",
+      "app-ee4bb87c1cf741ea4de0.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-services-mobile-development-js": [
+      "component---src-pages-services-mobile-development-js-9fb53901a74f89331e92.js",
+      "component---src-pages-services-mobile-development-js-9fb53901a74f89331e92.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-careers-admin-js": [
+      "component---src-pages-careers-admin-js-45a117fd53eeb55a48f8.js",
+      "component---src-pages-careers-admin-js-45a117fd53eeb55a48f8.js.map"
+    ],
+    "path---services-software-qa-testing": [
+      "path---services-software-qa-testing-40007d69e01810996305.js",
+      "path---services-software-qa-testing-40007d69e01810996305.js.map"
+    ],
+    "path---services": [
+      "path---services-40007d69e01810996305.js",
+      "path---services-40007d69e01810996305.js.map"
+    ],
+    "component---src-pages-careers-index-js": [
+      "component---src-pages-careers-index-js-2139f70a4c13bee55ec8.js",
+      "component---src-pages-careers-index-js-2139f70a4c13bee55ec8.js.map"
+    ],
+    "component---src-pages-services-js": [
+      "component---src-pages-services-js-d2fb21365b8ab252ad89.js",
+      "component---src-pages-services-js-d2fb21365b8ab252ad89.js.map"
+    ],
+    "path---services-staff-augmentation": [
+      "path---services-staff-augmentation-40007d69e01810996305.js",
+      "path---services-staff-augmentation-40007d69e01810996305.js.map"
+    ],
+    "component---src-pages-services-bigdata-js": [
+      "component---src-pages-services-bigdata-js-91cc5734ee2e3b382a31.js",
+      "component---src-pages-services-bigdata-js-91cc5734ee2e3b382a31.js.map"
+    ],
+    "component---src-pages-services-appdevelopment-js": [
+      "component---src-pages-services-appdevelopment-js-8208d8d926f63f2780bd.js",
+      "component---src-pages-services-appdevelopment-js-8208d8d926f63f2780bd.js.map"
+    ],
+    "path---services-appdevelopment": [
+      "path---services-appdevelopment-40007d69e01810996305.js",
+      "path---services-appdevelopment-40007d69e01810996305.js.map"
+    ]
+  }
+}
